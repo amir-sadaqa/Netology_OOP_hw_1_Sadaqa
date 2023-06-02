@@ -335,6 +335,4 @@ some_lecturer_2.add_to_lecturers_list()
 # count_course_avg_grade(lecturers_list, 'Git')
 # count_course_avg_grade(lecturers_list, 'Spanish')
 
-# Теперь посчитаем среднюю оценки за домашние задания по всем студентам в рамках конкретного курса
-# Для этого инициализируем пустой список students_list и вызовем нужный метод для добавления в него студентов
 
